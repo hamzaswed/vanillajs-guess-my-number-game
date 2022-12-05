@@ -18,3 +18,8 @@ If you have any feedback, please reach out to me at hamzaswed66@gmail.com
 **Client:** Html, Css, Javascript
 
 
+## Demo
+
+https://hamzaswed.github.io/vanillajs-guess-my-number-game/
+
+
