@@ -1,6 +1,6 @@
 # Guess My Number Project
 
-Guess My Number is a simple game made with html, css and javascript
+Guess My Number is a simple game
 
 
 ## Authors
@@ -13,7 +13,7 @@ Guess My Number is a simple game made with html, css and javascript
 If you have any feedback, please reach out to me at hamzaswed66@gmail.com
 
 
-## Used Tecnologes
+## Used Technology
 
 **Client:** Html, Css, Javascript
 
