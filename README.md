@@ -10,12 +10,11 @@ Guess My Number is a simple game made with html, css and javascript
 
 ## Feedback
 
-If you have any feedback, please reach out to us at hamzaswed66@gmail.com
+If you have any feedback, please reach out to me at hamzaswed66@gmail.com
 
 
 ## Used Tecnologes
 
 **Client:** Html, Css, Javascript
 
-**Server:** ..
 
