@@ -15,7 +15,8 @@ A simple and funny game built using HTML, CSS, and JavaScript
 
 ### Screenshot
 
-![image](https://github.com/hamzaswed/omnifood-template/assets/81015655/2e817e5f-5287-4680-b17e-35ec22a22731)
+![image](https://github.com/hamzaswed/vanillajs-guess-my-number-game/assets/81015655/96ba0f10-65f7-40a0-a866-3252c6af2844)
+
 
 ## Author
 
